@@ -21,6 +21,7 @@ CLIENTE-SERVIDOR/
 
     ```bash
     git clone https://github.com/tu-usuario/arquitectura-software.git
+    cd arquitectura-software
     cd Cliente-servidor
     ```
 
