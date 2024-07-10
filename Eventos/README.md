@@ -17,7 +17,7 @@ Este proyecto en Python demuestra una aplicación simple de mensajería utilizan
     ```bash
     git clone https://github.com/tu-usuario/arquitectura-software.git
     cd arquitectura-software
-    cd Eeventos
+    cd Eventos
     ```
 2. Instalar librerias
 
