@@ -24,6 +24,3 @@ Para ejecutar el programa principal `main.py`, simplemente ejecuta:
 
 ```bash
 python main.py
-
-
-vvvvvvvvvvvv
