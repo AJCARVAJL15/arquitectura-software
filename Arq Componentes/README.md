@@ -42,7 +42,7 @@ Escucha la señal de registro de entrada y muestra los detalles del miembro regi
 3. Instala las dependencias:
 
     ```bash
-    pip install pydispatch
+    pip install -r requirements.txt
     ```
 
 ## Ejecución
