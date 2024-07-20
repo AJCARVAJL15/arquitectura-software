@@ -1,9 +1,10 @@
 import requests
 
-# mensajes
+# Get messages
 response = requests.get('http://localhost:5001/messages')
-print(f"mensajes: {response.status_code}, {response.json()}")
+print(f"Messages: {response.status_code}, {response.json()}")
 
-# saludos
-response = requests.get('http://localhost:5005/greetings')
-print(f"saludos: {response.status_code}, {response.json()}")
+# Get greetings
+response = requests.get('http://localhost:5002/greetings')
+print(f"Greetings: {response.status_code}, {response.json()}")
+
