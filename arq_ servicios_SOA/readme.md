@@ -27,7 +27,7 @@ Este proyecto implementa un sistema simple de servicios SOA utilizando Flask. In
 ### Crear un Usuario
 
 
-curl -X POST http://localhost:5000/create_user -H "Content-Type: application/json" -d '{"id": "1", "name": "John Doe"}'
+curl -X POST http://localhost:5000/create_user -H "Content-Type: application/json" -d '{"id": "1", "name": "mariam eliana tutacha cuasialpud"}'
 ### obtener un Usuario
 
 curl http://localhost:5000/get_user/1
